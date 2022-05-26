@@ -1,0 +1,44 @@
+[
+  [
+    "Who is Faisal Masood?",
+    {
+      "entities":[
+        [
+          7,
+          20,
+          "PERSON"
+        ]
+      ]
+    }
+  ],
+
+  [
+    "I am married!",
+    {
+      "entities":[
+        [
+          5,
+          12,
+          "MARRIED"
+        ]
+      ]
+    }
+  ],
+  [
+    "I like London and Berlin.",
+    {
+      "entities":[
+        [
+          7,
+          13,
+          "LOC"
+        ],
+        [
+          18,
+          24,
+          "LOC"
+        ]
+      ]
+    }
+  ]
+]
